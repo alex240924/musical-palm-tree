@@ -61,7 +61,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-05-08 18:55:24 +0000",
       "woodland": "2025-05-02 19:24:34 +0000",
+      "snowblossom_grove": "2025-05-08 18:57:34 +0000",
       "rocky_shrubland": "2025-05-02 18:09:52 +0000",
       "old_growth_woodland": "2025-05-02 18:56:58 +0000",
       "moor": "2025-05-02 18:20:02 +0000",
@@ -69,7 +71,10 @@
       "redwood_forest": "2025-05-02 19:23:24 +0000",
       "dune_beach": "2025-05-02 19:37:55 +0000",
       "lavender_field": "2025-05-02 18:28:05 +0000",
-      "grassland": "2025-05-02 15:26:51 +0000"
+      "grassland": "2025-05-02 15:26:51 +0000",
+      "snowy_coniferous_forest": "2025-05-08 18:56:42 +0000",
+      "snowy_fir_clearing": "2025-05-08 18:56:13 +0000",
+      "snowy_maple_woods": "2025-05-08 18:56:25 +0000"
     },
     "done": false
   },
@@ -87,6 +92,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-05-08 18:57:19 +0000",
       "minecraft:cherry_grove": "2025-05-02 19:52:33 +0000",
       "minecraft:birch_forest": "2025-05-02 15:31:03 +0000",
       "minecraft:beach": "2025-05-02 16:07:21 +0000",
@@ -5651,33 +5657,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_raw_iron": "2025-05-05 18:36:29 +0000"
-    },
-    "done": true
-  },
-  "material_elements:recipes/refining/raw_steel_from_raw_iron_and_coke": {
-    "criteria": {
-      "has_raw_iron": "2025-05-05 18:36:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-05 18:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-05 18:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-05-05 18:36:29 +0000"
+      "find_artifact": "2025-05-05 18:34:09 +0000"
     },
     "done": true
   },
@@ -5699,21 +5681,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_raw_iron": "2025-05-05 18:36:29 +0000"
+      "has_raw_copper": "2025-05-05 18:36:15 +0000"
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "find_artifact": "2025-05-05 18:34:09 +0000"
+      "has_raw_copper": "2025-05-05 18:36:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-05 18:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "material_elements:recipes/refining/raw_steel_from_raw_iron_and_coke": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-05 18:36:29 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-08 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-08 18:53:20 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/chocolate_cake": {
+    "criteria": {
+      "has_egg": "2025-05-08 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-08 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-08 18:53:20 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/strawberry_cake": {
+    "criteria": {
+      "has_egg": "2025-05-08 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/vanilla_cake": {
+    "criteria": {
+      "has_egg": "2025-05-08 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-05-08 18:56:38 +0000"
     },
     "done": true
   },
