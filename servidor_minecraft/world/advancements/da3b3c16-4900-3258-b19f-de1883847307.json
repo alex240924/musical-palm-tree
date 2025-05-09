@@ -9880,29 +9880,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-09 17:59:55 +0000"
-    },
-    "done": true
-  },
   "doggytalents:recipes/decorations/flatcap": {
     "criteria": {
       "has_white_carpet": "2025-05-09 17:58:48 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "minecraft:persian": "2025-05-09 18:01:23 +0000",
-      "minecraft:black": "2025-05-09 18:01:18 +0000",
-      "minecraft:red": "2025-05-09 18:00:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-09 18:00:56 +0000"
+      "has_cod": "2025-05-09 17:59:55 +0000"
     },
     "done": true
   },
@@ -9915,6 +9901,24 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-09 17:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-05-09 18:19:19 +0000",
+      "minecraft:calico": "2025-05-09 18:19:49 +0000",
+      "minecraft:persian": "2025-05-09 18:01:23 +0000",
+      "minecraft:black": "2025-05-09 18:01:18 +0000",
+      "minecraft:ragdoll": "2025-05-09 18:31:21 +0000",
+      "minecraft:british_shorthair": "2025-05-09 18:31:51 +0000",
+      "minecraft:red": "2025-05-09 18:00:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-09 18:00:56 +0000"
     },
     "done": true
   },
