@@ -9862,5 +9862,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-09 17:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-09 17:22:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
