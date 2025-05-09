@@ -68,9 +68,11 @@
       "old_growth_woodland": "2025-05-02 18:56:58 +0000",
       "moor": "2025-05-02 18:20:02 +0000",
       "overgrown_greens": "2025-05-02 19:23:26 +0000",
+      "coniferous_forest": "2025-05-08 19:12:21 +0000",
       "redwood_forest": "2025-05-02 19:23:24 +0000",
       "dune_beach": "2025-05-02 19:37:55 +0000",
       "lavender_field": "2025-05-02 18:28:05 +0000",
+      "pumpkin_patch": "2025-05-08 19:12:17 +0000",
       "grassland": "2025-05-02 15:26:51 +0000",
       "snowy_coniferous_forest": "2025-05-08 18:56:42 +0000",
       "snowy_fir_clearing": "2025-05-08 18:56:13 +0000",
@@ -92,6 +94,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-08 19:13:14 +0000",
       "minecraft:frozen_river": "2025-05-08 18:57:19 +0000",
       "minecraft:cherry_grove": "2025-05-02 19:52:33 +0000",
       "minecraft:birch_forest": "2025-05-02 15:31:03 +0000",
@@ -100,9 +103,12 @@
       "minecraft:river": "2025-05-02 15:32:01 +0000",
       "minecraft:lukewarm_ocean": "2025-05-02 19:26:48 +0000",
       "minecraft:dripstone_caves": "2025-05-02 19:54:13 +0000",
+      "minecraft:cold_ocean": "2025-05-08 19:12:14 +0000",
       "minecraft:forest": "2025-05-02 15:31:35 +0000",
       "minecraft:lush_caves": "2025-05-02 15:38:41 +0000",
+      "minecraft:frozen_ocean": "2025-05-08 19:11:53 +0000",
       "minecraft:ocean": "2025-05-02 19:34:46 +0000",
+      "minecraft:snowy_beach": "2025-05-08 19:05:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 15:30:54 +0000",
       "minecraft:meadow": "2025-05-02 18:25:18 +0000",
       "minecraft:plains": "2025-05-02 15:32:56 +0000"
@@ -630,6 +636,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-05-02 18:18:36 +0000",
+      "sweet_berries": "2025-05-08 19:13:24 +0000",
       "cooked_beef": "2025-05-02 15:40:25 +0000",
       "beef": "2025-05-02 19:56:42 +0000",
       "porkchop": "2025-05-02 18:28:27 +0000",
@@ -5723,15 +5730,21 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cake": {
-    "criteria": {
-      "has_the_recipe": "2025-05-08 18:56:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-08 18:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-08 18:53:20 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-08 18:56:38 +0000"
     },
     "done": true
   },
@@ -5744,12 +5757,6 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-08 18:56:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-05-08 18:53:20 +0000"
     },
     "done": true
   },
@@ -5768,6 +5775,42 @@
   "doggytalents:recipes/food/egg_sandwich": {
     "criteria": {
       "has_egg": "2025-05-08 18:56:38 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/feathered_mantle": {
+    "criteria": {
+      "has_feather": "2025-05-08 19:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-08 19:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-08 19:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-08 19:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-08 19:04:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-08 19:04:47 +0000"
     },
     "done": true
   },
