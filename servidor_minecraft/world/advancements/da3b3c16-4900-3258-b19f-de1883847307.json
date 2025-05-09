@@ -9868,15 +9868,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-09 17:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-09 17:38:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_stripped_logs": "2025-05-09 17:22:44 +0000"
+      "has_cod": "2025-05-09 17:59:55 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/flatcap": {
+    "criteria": {
+      "has_white_carpet": "2025-05-09 17:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2025-05-09 18:01:23 +0000",
+      "minecraft:black": "2025-05-09 18:01:18 +0000",
+      "minecraft:red": "2025-05-09 18:00:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-09 18:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-09 17:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-09 17:59:55 +0000"
     },
     "done": true
   },
