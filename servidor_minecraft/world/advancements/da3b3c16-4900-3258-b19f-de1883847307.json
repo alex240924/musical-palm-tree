@@ -9922,5 +9922,65 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-09 18:41:39 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/head_band_blank": {
+    "criteria": {
+      "has_paper": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/birthday_hat_alt": {
+    "criteria": {
+      "has_paper": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/dog_gift_costume": {
+    "criteria": {
+      "has_paper": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-09 18:42:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
