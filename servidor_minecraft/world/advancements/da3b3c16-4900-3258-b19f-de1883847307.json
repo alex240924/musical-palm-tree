@@ -9982,5 +9982,83 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-05-09 21:37:52 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/pink_frosted_cake": {
+    "criteria": {
+      "has_egg": "2025-05-09 21:41:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-05-09 21:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs_from_smooth_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-05-09 21:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_slab_from_smooth_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-05-09 21:45:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_black_sandstone": "2025-05-09 21:45:17 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-09 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/chocolate_cake": {
+    "criteria": {
+      "has_egg": "2025-05-09 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-09 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-09 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/strawberry_cake": {
+    "criteria": {
+      "has_egg": "2025-05-09 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "mysticsbiomes:recipes/food/vanilla_cake": {
+    "criteria": {
+      "has_egg": "2025-05-09 22:03:15 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_egg": "2025-05-09 22:03:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
