@@ -9868,6 +9868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-09 17:38:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-09 17:22:44 +0000"

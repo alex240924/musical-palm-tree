@@ -892,3 +892,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:color_essence'
 [09May2025 17:20:00.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
 [09May2025 17:21:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set own game mode to Creative Mode]
 [09May2025 17:27:47.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set the time to 1000]
+[09May2025 17:45:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: The difficulty has been set to Peaceful]
+[09May2025 17:45:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: The difficulty has been set to Normal]
+[09May2025 17:45:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaleexx17: Set the time to 1000]
